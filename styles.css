@@ -1,0 +1,31 @@
+/* Place your CSS styles in this file */
+
+h1 {
+    text-align: center;
+    font-family: "Times new roman", serif;
+    font-weight: bold;
+    color: rgb(255, 202, 57)
+
+
+}
+
+body {
+    background-color:rgb(255, 245, 183);
+    text-align: center;
+    border: 2px solid rgb(255, 189, 158);
+    color: rgb(186, 144, 29);
+    font-weight: bold;
+
+p {font-size: 5 px;
+font-family: "Times new roman"; serif;
+color: black;
+font-weight: normal;}
+
+ul {list-style-type: none; 
+border: 2px solid rgb(255, 189, 158);
+background-color: rgb(255, 251, 206);}
+
+  li {
+    display: inline;
+    padding: 8px;}
+}
